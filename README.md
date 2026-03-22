@@ -6,5 +6,5 @@ _March 23, 2026_
 
 ## Contents
 
-- **Lecture Materials**: Course slides and presentations
-- **data_and_code/**: Excell, Python and R code for analyses, along with supporting datasets
+- `260323-Epidemology of Disasters and Mortality Estimations.pdf`: Course slides and presentations.
+- `data_and_code/`: Excel, Python and R code for analyses, along with supporting mortality datasets
